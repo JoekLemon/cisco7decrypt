@@ -16,7 +16,7 @@ username admin privilege 15 password 7 02050D480809
 ## Using `cisco7decrypt.py`
 
 ```bash
-git clone the repository
+git clone https://github.com/JoekLemon/cisco7decrypt
 cd cisco7decrypt/
 python3 cisco7decrypt.py --help
 ```
